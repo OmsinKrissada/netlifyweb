@@ -1,3 +1,26 @@
 * {
-    background-color: rgb(255, 203, 124);
+    margin: 0;
+    background-color: rgba(126, 236, 255, 0.253);
+}
+.nav-container {
+    background-color: purple;
+}
+.logo {
+    width: 10px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    float: right;
+}
+nav ul li {
+    margin: 5px;
+}
+
+
+
+footer {
+    height: 30vmin;
+    background-color: white;
 }
